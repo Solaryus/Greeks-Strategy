@@ -11,7 +11,7 @@ Une application web interactive développée avec Streamlit pour aider les inves
 🧮 Paramétrage complet : Prix spot, strike, maturité, volatilité, taux d’intérêt, etc.
 
 # 1. Cloner le dépôt
-git clone https://github.com/ton-utilisateur/greeks-strategy-webapp.git
+git clone [https://github.com/ton-utilisateur/greeks-strategy-webapp.git](https://github.com/Solaryus/Greeks-Strategy.git)
 cd greeks-strategy-webapp
 
 # 2. Installer les dépendances
